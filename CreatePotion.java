@@ -8,9 +8,7 @@ public class CreatePotion {
 
         Label potion = new Label();
         
-        //make sure components overlap each other
-        //To do this, we need to set the layout to null
-
+       
         frame.getContentPane().add(potion);
 
         frame.setSize(300, 300);
